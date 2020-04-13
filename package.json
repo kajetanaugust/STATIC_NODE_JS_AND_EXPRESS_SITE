@@ -1,0 +1,24 @@
+{
+  "name": "STATIC_NODE_JS_AND_EXPRESS_SITE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KajetanAugust/STATIC_NODE_JS_AND_EXPRESS_SITE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KajetanAugust/STATIC_NODE_JS_AND_EXPRESS_SITE/issues"
+  },
+  "homepage": "https://github.com/KajetanAugust/STATIC_NODE_JS_AND_EXPRESS_SITE#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
