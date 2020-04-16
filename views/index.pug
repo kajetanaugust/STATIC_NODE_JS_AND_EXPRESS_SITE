@@ -3,22 +3,17 @@ extends layout.pug
 block content 
     article.grid-container.portfolio-intro
         div
-
-            h1 My portfolio
-
-
+            h1.main-h1 MY WORK
             p.lead.text-light
-                | This is my portfolio, it presents the projects I did during Front-End Developer and Full Stack JavaScript Techdegrees.
+                | I've made this portfolio to show you examples of my projects. Take a look and have fun!
     article.grid-container.portfolio-index
 
         .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3
-
-
-            each projectLoop in  projectsInfo
+            each project in projects
                 .cell
-                    a(href=`/project/${projectLoop.id}`)
-                        img.thumbnail(src=`${projectLoop.image_urls[0]}`)
-                        h5= projectLoop.project_name
+                    a(href=`/project/${project.id}`)
+                        img.thumbnail(src=`${project.image_urls[0]}`)
+                        h5= project.project_name
 
 
 
