@@ -22,7 +22,7 @@
     {
       "id": 1,
       "project_name": "OOP Game Show App",
-      "description": "It's the browser version of “Wheel of Success”, a word guessing game where players will click letters from an onscreen keyboard to try to guess a random phrase. It utilizes Object Oriented Programing Concept",
+      "description": "It is the browser version of Wheel of Succes, a word guessing game where players will click letters from an onscreen keyboard to try to guess a random phrase. It utilizes Object Oriented Programing Concept",
       "technologies": [
         "HTML",
         "CSS",
@@ -95,7 +95,7 @@
     {
       "id": 5,
       "project_name": "Random Quote Generator",
-      "description": "It's the random quote generator which displays quotes by designers and artists. It draws a random quote and a random background color when the page loads. The quote is changed every 10 seconds by setInterval method.",
+      "description": "It is the random quote generator which displays quotes by designers and artists. It draws a random quote and a random background color when the page loads. The quote is changed every 10 seconds by setInterval method.",
       "technologies": [
         "HTML",
         "CSS",

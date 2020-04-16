@@ -1,14 +1,14 @@
 const express = require('express');
 const app = express();
 
-const projectsInfo = require('./data.json');
+const {projectsInfo} = require('./data.json');
 
 app.use('/static', express.static('public'));
 app.set('view engine', 'pug');
 
 app.get('/', (req, res) => {
     console.log(projectsInfo)
-    res.render('index', projectsInfo);
+    res.render('index', {projectsInfo});
 });
 
 app.get('/about', (req, res) => {
