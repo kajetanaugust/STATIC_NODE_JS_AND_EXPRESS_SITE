@@ -26,6 +26,14 @@ app.get('/project/:id', (req, res) => {
     }
 });
 
+
+//error handling
+
+//exceeds expectations
+
+//readme
+
+
 app.listen(3000, () => {
     console.log('The app is running on localhost:3000!')
 });
