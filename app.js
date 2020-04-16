@@ -14,9 +14,9 @@ app.get('/about', (req, res) => {
     res.render('about');
 });
 
-app.get('project/0', (req, res) => {
-    res.render('project',  {projectsInfo}[0] )
-})
+// app.get('project/0', (req, res) => {
+//     res.render('project',  {projectsInfo}[0] )
+// })
 
 // app.get('/project/:id', function(req, res) {
 //     const projectId = req.params.id;

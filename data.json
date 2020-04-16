@@ -4,55 +4,111 @@
       "id": 0,
       "project_name": "Interactive Form",
       "description": "This is a contact form I have created to fit the provided mockup. It uses mobile first approach and media query for 768px and 1024px widths. It uses RegEx for fields validation and displays messages if validation is failed.",
-      "technologies": ["HTML", "CSS", "Vanilla JavaScript", "RegEx"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Vanilla JavaScript",
+        "RegEx"
+      ],
       "live_link": "https://kajetanaugust.github.io/INTERACTIVE_FORM/",
       "github_link": "https://github.com/KajetanAugust/INTERACTIVE_FORM",
-      "image_urls": ["static/images/form-mini.jpg", "static/images/form1.jpg", "static/images/form2.jpg", "static/images/form3.jpg"]
+      "image_urls": [
+        "static/images/form-mini.jpg",
+        "static/images/form1.jpg",
+        "static/images/form2.jpg",
+        "static/images/form3.jpg"
+      ]
     },
     {
       "id": 1,
       "project_name": "OOP Game Show App",
       "description": "It's the browser version of “Wheel of Success”, a word guessing game where players will click letters from an onscreen keyboard to try to guess a random phrase. It utilizes Object Oriented Programing Concept",
-      "technologies": ["HTML", "CSS", "Vanilla JavaScript", "Object-Oriented Programming"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Vanilla JavaScript",
+        "Object-Oriented Programming"
+      ],
       "live_link": "https://kajetanaugust.github.io/OOP_GAME_SHOW_APP/",
       "github_link": "https://github.com/KajetanAugust/OOP_GAME_SHOW_APP",
-      "image_urls": ["static/images/game-mini.jpg" ,"static/images/game1.jpg", "static/images/game2.jpg", "static/images/game3.jpg"]
+      "image_urls": [
+        "static/images/game-mini.jpg",
+        "static/images/game1.jpg",
+        "static/images/game2.jpg",
+        "static/images/game3.jpg"
+      ]
     },
     {
       "id": 2,
       "project_name": "Employee Directory",
       "description": "This is the employee directory, it uses fetch API to get 12 random users. Users can be filtered with search bar. The detailed informations are displayed in modal window.",
-      "technologies": ["HTML", "CSS", "Vanilla JavaScript"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Vanilla JavaScript"
+      ],
       "live_link": "https://kajetanaugust.github.io/EMPLOYEE_DIRECTORY_WITH_FETCH_API/",
       "github_link": "https://github.com/KajetanAugust/EMPLOYEE_DIRECTORY_WITH_FETCH_API",
-      "image_urls": ["static/images/directory-mini.jpg", "static/images/directory1.jpg", "static/images/directory2.jpg", "static/images/directory3.jpg"]
+      "image_urls": [
+        "static/images/directory-mini.jpg",
+        "static/images/directory1.jpg",
+        "static/images/directory2.jpg",
+        "static/images/directory3.jpg"
+      ]
     },
     {
       "id": 3,
       "project_name": "Pagination and Filtering",
       "description": "In this project the task was to divide the long list of users to 10-persons pages. The project uses unobtrusive JavaScript. When the list is filtered, new user list is displayed along with a buttons for different pages.",
-      "technologies": ["HTML", "CSS", "Vanilla JavaScript"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Vanilla JavaScript"
+      ],
       "live_link": "https://kajetanaugust.github.io/LIST_PAGINATION_AND_FILTERING/",
       "github_link": "https://github.com/KajetanAugust/LIST_PAGINATION_AND_FILTERING",
-      "image_urls": ["static/images/pagination-mini.jpg", "static/images/pagination1.jpg", "static/images/pagination2.jpg", "static/images/pagination3.jpg"]
+      "image_urls": [
+        "static/images/pagination-mini.jpg",
+        "static/images/pagination1.jpg",
+        "static/images/pagination2.jpg",
+        "static/images/pagination3.jpg"
+      ]
     },
     {
       "id": 4,
       "project_name": "Portfolio Site",
       "description": "This is the project of my portfolio website.",
-      "technologies": ["HTML", "CSS", "Vanilla JavaScript"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Vanilla JavaScript"
+      ],
       "live_link": "https://kajetanaugust.github.io",
       "github_link": "https://github.com/KajetanAugust/KajetanAugust.github.io",
-      "image_urls": ["static/images/portfolio-mini.jpg", "static/images/portfolio1.jpg", "static/images/portfolio2.jpg", "static/images/portfolio3.jpg"]
+      "image_urls": [
+        "static/images/portfolio-mini.jpg",
+        "static/images/portfolio1.jpg",
+        "static/images/portfolio2.jpg",
+        "static/images/portfolio3.jpg"
+      ]
     },
     {
       "id": 5,
       "project_name": "Random Quote Generator",
       "description": "It's the random quote generator which displays quotes by designers and artists. It draws a random quote and a random background color when the page loads. The quote is changed every 10 seconds by setInterval method.",
-      "technologies": ["HTML", "CSS", "Vanilla JavaScript"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Vanilla JavaScript"
+      ],
       "live_link": "https://kajetanaugust.github.io/A_RANDOM_QUOTE_GENERATOR/",
       "github_link": "https://github.com/KajetanAugust/A_RANDOM_QUOTE_GENERATOR",
-      "image_urls": ["static/images/quote-mini.jpg", "static/images/quote1.jpg", "static/images/quote2.jpg", "static/images/quote3.jpg"]
+      "image_urls": [
+        "static/images/quote-mini.jpg",
+        "static/images/quote1.jpg",
+        "static/images/quote2.jpg",
+        "static/images/quote3.jpg"
+      ]
     }
   ]
 }
