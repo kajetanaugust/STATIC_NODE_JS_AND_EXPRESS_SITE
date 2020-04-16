@@ -14,9 +14,9 @@
       "github_link": "https://github.com/KajetanAugust/INTERACTIVE_FORM",
       "image_urls": [
         "static/images/form-mini.jpg",
-        "static/images/form1.jpg",
-        "static/images/form2.jpg",
-        "static/images/form3.jpg"
+        "../static/images/form1.jpg",
+        "../static/images/form2.jpg",
+        "../static/images/form3.jpg"
       ]
     },
     {
@@ -33,9 +33,9 @@
       "github_link": "https://github.com/KajetanAugust/OOP_GAME_SHOW_APP",
       "image_urls": [
         "static/images/game-mini.jpg",
-        "static/images/game1.jpg",
-        "static/images/game2.jpg",
-        "static/images/game3.jpg"
+        "../static/images/game1.jpg",
+        "../static/images/game2.jpg",
+        "../static/images/game3.jpg"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "github_link": "https://github.com/KajetanAugust/EMPLOYEE_DIRECTORY_WITH_FETCH_API",
       "image_urls": [
         "static/images/directory-mini.jpg",
-        "static/images/directory1.jpg",
-        "static/images/directory2.jpg",
-        "static/images/directory3.jpg"
+        "../static/images/directory1.jpg",
+        "../static/images/directory2.jpg",
+        "../static/images/directory3.jpg"
       ]
     },
     {
@@ -69,9 +69,9 @@
       "github_link": "https://github.com/KajetanAugust/LIST_PAGINATION_AND_FILTERING",
       "image_urls": [
         "static/images/pagination-mini.jpg",
-        "static/images/pagination1.jpg",
-        "static/images/pagination2.jpg",
-        "static/images/pagination3.jpg"
+        "../static/images/pagination1.jpg",
+        "../static/images/pagination2.jpg",
+        "../static/images/pagination3.jpg"
       ]
     },
     {
@@ -87,9 +87,9 @@
       "github_link": "https://github.com/KajetanAugust/KajetanAugust.github.io",
       "image_urls": [
         "static/images/portfolio-mini.jpg",
-        "static/images/portfolio1.jpg",
-        "static/images/portfolio2.jpg",
-        "static/images/portfolio3.jpg"
+        "../static/images/portfolio1.jpg",
+        "../static/images/portfolio2.jpg",
+        "../static/images/portfolio3.jpg"
       ]
     },
     {
@@ -105,9 +105,9 @@
       "github_link": "https://github.com/KajetanAugust/A_RANDOM_QUOTE_GENERATOR",
       "image_urls": [
         "static/images/quote-mini.jpg",
-        "static/images/quote1.jpg",
-        "static/images/quote2.jpg",
-        "static/images/quote3.jpg"
+        "../static/images/quote1.jpg",
+        "../static/images/quote2.jpg",
+        "../static/images/quote3.jpg"
       ]
     }
   ]
