@@ -33,11 +33,8 @@ app.get('/project/:id', (req, res, next) => {
 app.use((req, res, next) => {
     const err = new Error('Page not found!')
     err.status = `Error ${404}`;
-
     next(err)
 });
-
-
 
 app.use((err, req, res, next) => {
     res.locals.error = err;
@@ -46,7 +43,7 @@ app.use((err, req, res, next) => {
     res.render('error')
 });
 
-//exceeds expectations
+
 
 //readme
 
