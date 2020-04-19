@@ -8,6 +8,7 @@ html(class="no-js" lang="en" dir="ltr")
     link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
     link(rel='stylesheet', href='/static/css/foundation.css')
     link(rel='stylesheet', href='/static/css/style.css')
+    link(rel='stylesheet', href='/static/css/changes.css')
   body
     #my-info.off-canvas.position-left.reveal-for-large.portfolio-me(data-off-canvas='')
       .grid-y.grid-padding-x(style='height: 100%;')
@@ -17,9 +18,9 @@ html(class="no-js" lang="en" dir="ltr")
             img.thumbnail(src='../static/images/profile.jpg')
           .cell.auto
 
-            h5 Kajetan August
+            h5#info-name Kajetan August
 
-            p.text-light
+            p.text-light#short-description
               | I'm the Front End Web Developer looking to get more knowledge about JavaScript.
 
 
