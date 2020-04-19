@@ -30,9 +30,12 @@
 
 .thumbnail {
     border-radius: 3px;
+}
+
+#project-thumbnail {
     transition: 300ms ease-in-out;
 }
 
-.thumbnail:hover {
+#project-thumbnail:hover {
     border: solid 0.5px lightgray;
 }
