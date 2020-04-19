@@ -1,4 +1,4 @@
-##**Static Node and Express Site**
+##Static Node and Express Site
 
 This is my unit 6 project of Full Stack Javascript Techdegree.
 It's the portfolio website created using Node.js, Express and Pug(Jade) template.
